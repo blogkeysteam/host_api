@@ -1,0 +1,907 @@
+{
+  "machine_data": [
+    {
+      "category_id": "1",
+      "title": "Mathematics",
+      "topiclist": [
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/thcfdo7n919nd4dbtsshe/1-Number-System.PDF?rlkey=mmtea7l3covbms2ct62zgwpmf&st=3b4t6dli&dl=1",
+          "pdf_id": "1",
+          "title": "1 Number System"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/qwledccb7q58c0vvj3feh/2-Decimal-Fraction.PDF?rlkey=e114bubv6p7a7zkwk7qcou40f&st=dg2vad2e&dl=1",
+          "pdf_id": "2",
+          "title": "2 Decimal Fraction"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/7xxr4iw0ado59aebtq5ro/3-Surds-and-Indices.PDF?rlkey=ugva5hpdej836yqk1k912q4bf&st=u8a1zdhe&dl=1",
+          "pdf_id": "3",
+          "title": "3 Surds and Indices"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/afwd0zqkmqfqmtedtzkwc/4-Simplification.PDF?rlkey=38d1nveindza64wkxl08zbo6t&st=sq5rlgve&dl=1",
+          "pdf_id": "4",
+          "title": "4 Simplification "
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/yz531o0cmg7wo90vpul9e/5-HCM-LCM.PDF?rlkey=f190gjg2rb5y7te5iylmels9p&st=x3ef4jiw&dl=1",
+          "pdf_id": "5",
+          "title": "5 HCM LCM"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/7towxg9vkh4861m5rkhac/6-Percentage.PDF?rlkey=7smyjohi1tvj53dcne405vsqu&st=dcf0u31l&dl=1",
+          "pdf_id": "6",
+          "title": "6 Percentage"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/zj4bm73h9dn2pdnqqtkbg/7-Profit-and-Loss.PDF?rlkey=06zqoz82adnvvfxotadse9f5o&st=es2px7ws&dl=1",
+          "pdf_id": "7",
+          "title": "7 Profit and Loss"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/ugp7b5ouhye3m6h9wyfy8/8-Discount.PDF?rlkey=tg5xg0kowymgo8e0sb4a9ipd1&st=7r7o1b2z&dl=1",
+          "pdf_id": "8",
+          "title": "8 Discount"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/2qxyi6p1rflsxtm2w9ip0/9-Ratio-Proportion.PDF?rlkey=hb8tiv1k0xwy5haxi1y818ybd&st=1kdzjoi4&dl=1",
+          "pdf_id": "9",
+          "title": "9 Ratio & Proportion "
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/44ucs1zqbfhfz4w612n3o/10-Partnership.PDF?rlkey=z55utau0cnvh59qebfxlmqn2j&st=6zlcec05&dl=1",
+          "pdf_id": "10",
+          "title": "10 Partnership"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/4daprwz5b97teou2y8kaz/11-Work-Time.PDF?rlkey=rptuf58v0uvqdfymhvwlp322j&st=pocgpkjf&dl=1",
+          "pdf_id": "11",
+          "title": "11 Work & Time"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/6j50ychnwb334hxj2i4z8/12-Alligation.PDF?rlkey=3uizb8tlm0wd8xftpuxtpawqd&st=sr7pg4tz&dl=1",
+          "pdf_id": "12",
+          "title": "12 Alligation"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/sdujan9c82dnnsxp0wggr/13-Pipe-Cistern.PDF?rlkey=n1rzjxb2nmmcqhr5x6fjxs7qm&st=j24p4mzt&dl=1",
+          "pdf_id": "13",
+          "title": "13 Pipe & Cistern"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/8d9wbwe6d1iwxas6lkb46/14-Simple-Interest.PDF?rlkey=vff73ep8ww19vpgnfrs8sp9ly&st=jm95hw4f&dl=1",
+          "pdf_id": "14",
+          "title": "14 Simple Interest"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/9ph6gpvwq8behujggoy5y/15-Compound-Interest.PDF?rlkey=0lsqbdgfjdxmp9ep2tzpui5gu&st=y5yl31rr&dl=1",
+          "pdf_id": "15",
+          "title": "15 Compound Interest"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/9zo8ngl7k07cdf1edjcji/16-Problems-Based-on-Age.PDF?rlkey=gzgrxu4yhwnskb6qjqu9jx6rc&st=38fy37sv&dl=1",
+          "pdf_id": "16",
+          "title": "16 Problems Based on Age"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/hqxyatwwu1b2ckp49f4bl/17-Average.PDF?rlkey=2ry5eaectk7tys6f6vi3d0mnp&st=b9p5bb8x&dl=1",
+          "pdf_id": "17",
+          "title": "17 Average"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/9z9646atn9gvr9lxjdfnl/18-Speed-Time-Distance.PDF?rlkey=fd6yo186bleb0xoan16wi6tx5&st=u79dxt61&dl=1",
+          "pdf_id": "18",
+          "title": "18 Speed, Time & Distance"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/cd30kxhnmd52q70d04ah5/19-Train.PDF?rlkey=0d4b938qjkhu7nfmkkzbp5jut&st=k8j3it5v&dl=1",
+          "pdf_id": "19",
+          "title": "19 Train"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/0v7p7idgq5esqhamtfe3g/20-Boat-Stream.PDF?rlkey=eiref9aaf0gzpkwms9b02wrw3&st=kifs9xz6&dl=1",
+          "pdf_id": "20",
+          "title": "20 Boat & Stream"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/afovkpfaqsppmm996mij0/21-Mensuration.PDF?rlkey=238xrytr075j4josdjtwrjkur&st=sakcjihb&dl=1",
+          "pdf_id": "21",
+          "title": "21 Mensuration"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/11d5zlfkuu0spjrcie2st/22-Algebra.PDF?rlkey=i1ulgu4537anmr9s8hs4x0u52&st=q870cy7r&dl=1",
+          "pdf_id": "22",
+          "title": "22 Algebra"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/l4w8o234nnfj1e5r8i253/23-Trigonometry.PDF?rlkey=krzzs4i2wjj0mz67s698talxv&st=fgd71dsz&dl=1",
+          "pdf_id": "23",
+          "title": "23 Trigonometry"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/6f5ul9yq6ncauxn1cd1wu/24-Co-ordinate-Geometry.PDF?rlkey=bnwp5uh1zznp1tle78n2qetim&st=k9hr5aen&dl=1",
+          "pdf_id": "24",
+          "title": "24 Co-ordinate Geometry"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/o5jkts4xl0t4ogznivgb6/25-Geometry.PDF?rlkey=xaep7n06msyu6qdoaaxj0ghdo&st=826locgx&dl=1",
+          "pdf_id": "25",
+          "title": "25 Geometry"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/g9xvzpl8tarpwdt0dblv4/26-Elementary-Statistics-and-Probability.PDF?rlkey=fgw4yhj5xbvuuwgmvooxoiepk&st=iprsu1fs&dl=1",
+          "pdf_id": "26",
+          "title": "26 Elementary Statistics and Probability"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/qdbcek2hlj2r3lqx1phj2/27-Data-Interpretation.PDF?rlkey=y6wtie33b1zcoqehyqzwk3rw1&st=wm89tsid&dl=1",
+          "pdf_id": "27",
+          "title": "27 Data Interpretation"
+        },
+        {
+          "content": "Mathematics",
+          "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+          "link": "https://www.dropbox.com/scl/fi/f2lzus79nfo161a5auc3q/28-Miscellaneous.PDF?rlkey=evhqsqgkw9olsyxpoyip58wxh&st=9jpgn9ji&dl=1",
+          "pdf_id": "28",
+          "title": "28 Miscellaneous"
+        }
+      ]
+    },
+    {
+      "category_id": "2",
+      "title": "Reasoning",
+      "topiclist": [
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/m3s70or49j39f06fdbxbm/1-Analogy.PDF?rlkey=k51m8gvnkvkz8r0bpfe2gfqfz&st=g5eib8sv&dl=1",
+          "pdf_id": "1",
+          "title": "1 Analogy"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/3zr45z38bjsxkozfe25bt/2-Coading-Decoding.PDF?rlkey=85k2ufxhb3rql9o3tcl3tjju5&st=c4thbgag&dl=1",
+          "pdf_id": "2",
+          "title": "2 Coading Decoding"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/293pjyczo8trvndxoupky/3-Classification.PDF?rlkey=qc9k3wydy1pd2rytkk82lkdkc&st=0juguh0z&dl=1",
+          "pdf_id": "3",
+          "title": "3 Classification"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/ydzks0hu7co9lulhjv266/4-Series.PDF?rlkey=xubzz6rtd1wptd07diuuixcvt&st=alfh4cre&dl=1",
+          "pdf_id": "4",
+          "title": "4 Series"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/cv2x6ugq13p1zy8jxem3d/5-Missing-No-Letter-Term-Fig.PDF?rlkey=1v1euyuv6lt0dm16zzyzg2uu9&st=nmcykdcv&dl=1",
+          "pdf_id": "5",
+          "title": "5 Missing No-Letter-Term-Fig"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/33iv84phly7e9robcvtnm/6-Direction.PDF?rlkey=kedkzpu6ou92wuhjuec2qa96w&st=40ex13iz&dl=1",
+          "pdf_id": "6",
+          "title": "6 Direction"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/toagbhvr0bjlzj5ifmmuu/7-Blood-Relations.PDF?rlkey=lwdeyl2cqdyu5vhjwbk6xoj25&st=uvzvqy50&dl=1",
+          "pdf_id": "7",
+          "title": "7 Blood Relations"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/evxa8qjvn0k61poc3o76b/8-Arithmetic-Operation.PDF?rlkey=h86zh8omw1ikwk1eqq0z89q0q&st=udgov4hq&dl=1",
+          "pdf_id": "8",
+          "title": "8 Arithmetic Operation"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/w66ti87yagoflq4olbzt9/9-Venn-Diagram.PDF?rlkey=6xf1o4bzs6zrrph3o0fyajt7r&st=2pgfac51&dl=1",
+          "pdf_id": "9",
+          "title": "9 Venn Diagram"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/2h8vawvsrmc4ryyula7m0/10-Problem-Based-on-Diagram.PDF?rlkey=rvby1nu7b0yh8pbayzyfjv9jo&st=o0n906qg&dl=1",
+          "pdf_id": "10",
+          "title": "10 Problem Based on Diagram"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/oonogbs8vbcgob05q3rju/11-Analytical-Reasoning.PDF?rlkey=qh5chgdc8iraxdeemferr4rq7&st=0zhms5wm&dl=1",
+          "pdf_id": "11",
+          "title": "11 Analytical Reasoning"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/wzks0yh11lk5re782h9k7/12-Syllogism.PDF?rlkey=q95iuy2p7gxti5uhjhhawr39o&st=m43cw5h0&dl=1",
+          "pdf_id": "12",
+          "title": "12 Syllogism"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/ijkuqhmbjo8b15xxk32sc/13-Statement-and-Conclusion.PDF?rlkey=k68xmzzppn0syzs2p7i1de68d&st=jqt00k52&dl=1",
+          "pdf_id": "13",
+          "title": "13 Statement and Conclusion"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/mfd41x424sgje44uwwfu3/14-Statement-and-Assumption-Operation.PDF?rlkey=aq81omejdyfwvp7hempiu3tut&st=dvf16zle&dl=1",
+          "pdf_id": "14",
+          "title": "14 Statement and Assumption, Operation"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/cuznw4g6123yo979egj3h/15-Data-Sufficiency.PDF?rlkey=3rjv9cd6uem0bo3v9k29q9dz5&st=tfwocz47&dl=1",
+          "pdf_id": "15",
+          "title": "15 Data Sufficiency"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/zxqytewbkdb9e35g9xx32/16-Sequence-and-sitting-Arrangement.PDF?rlkey=txg5663zyj7ar8jhb1czic23d&st=i0czr7hw&dl=1",
+          "pdf_id": "16",
+          "title": "16 Sequence and sitting Arrangement"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/yvc6yfu5ckzb9xdvaxt1k/17-Calendar-and-Clock.PDF?rlkey=jh4o51ogriytyy015arc5ry88&st=kagiq0qm&dl=1",
+          "pdf_id": "17",
+          "title": "17 Calendar and Clock"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/leuiehtvasg6a728ieyoy/18-Formation-and-Division-Of-Figure.PDF?rlkey=tnl7mal3nw98kf7mlwsp6b5m7&st=jmvup257&dl=1",
+          "pdf_id": "18",
+          "title": "18 Formation and Division Of Figure"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/i38b0cklfa2p6lixt32pv/19-Line-and-Fig-Counting.PDF?rlkey=8zoaguldpxk6rwq8tvkfixp20&st=99y4ielr&dl=1",
+          "pdf_id": "19",
+          "title": "19 Line and Fig Counting"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/fdyka0xbxml2g842stjax/20-Water-and-Mirror-Image.PDF?rlkey=dnzwdrmvgbvt3okca6imoucg2&st=wcbxbrkz&dl=1",
+          "pdf_id": "20",
+          "title": "20 Water and Mirror Image"
+        },
+        {
+          "content": "Reasoning",
+          "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+          "link": "https://www.dropbox.com/scl/fi/ik4cu75myundx94q17ckl/21-Cube-Cuboid-and-Dia.PDF?rlkey=4oljd4gdmwha3zo0r43ql2dpv&st=8skry1gl&dl=1",
+          "pdf_id": "21",
+          "title": "21 Cube,Cuboid and Dia"
+        }
+      ]
+    },
+    {
+      "category_id": "3",
+      "title": "GK And GS",
+      "topiclist": [
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/wixnmbmw7ukwsoe27gxcc/1-Ancient-History.pdf?rlkey=w7nphivzytv9ey6a3eg8ku7b6&st=z6z64ja2&dl=1",
+          "pdf_id": "1",
+          "title": "1 Ancient History"
+        },
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/iyglw4bkhrmbbk2lh5az7/2-Medieval-History.pdf?rlkey=svp7ahuvy0wyfnysc8azhw4wx&st=nd5ow0d6&dl=1",
+          "pdf_id": "2",
+          "title": "2 Medieval History"
+        },
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/53lg55h8hmbax1ltddwdy/3-Modern-History.pdf?rlkey=b3ui0tua3fug3o9e0tvwm7l1c&st=sfcf72oj&dl=1",
+          "pdf_id": "3",
+          "title": "3 Modern History"
+        },
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/en1jn0pibcvryxc1cib8g/4-World-History.pdf?rlkey=lh1wrh1y8pf8l8jn2k3tvztqv&st=nfhnbrrw&dl=1",
+          "pdf_id": "4",
+          "title": "4 World History"
+        },
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/ufjqzzbc2z6c5zt7w354g/5-Indian-Polity.pdf?rlkey=f8sy6e6ckb3kqnn6oshl5lrlp&st=296l33y9&dl=1",
+          "pdf_id": "5",
+          "title": "5 Indian Polity"
+        },
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/o1aygu7moae2bbflwajw3/6-World-Geography.pdf?rlkey=xaldtm64s9c6w856dmlbco57r&st=k7ktawal&dl=1",
+          "pdf_id": "6",
+          "title": "6 World Geography"
+        },
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/6p8kfbwcn9hb33aq9q7vu/7-Indian-Geography.pdf?rlkey=wg4ljasllzxdivsx8xqwy4np7&st=atlgtgn7&dl=1",
+          "pdf_id": "7",
+          "title": "7 Indian Geography"
+        },
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/ordwk1cwhnpmgc4c7jin7/8-Economics.pdf?rlkey=czaed0j4hwrme38z3dazroxtb&st=msgh468m&dl=1",
+          "pdf_id": "8",
+          "title": "8 Economics"
+        },
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/2sy6sg7sfp9wqz5dlnjp5/9-Traditional-General-Knowledge.pdf?rlkey=7o0xyyh2k6tcda91qduabsb88&st=088m7kqd&dl=1",
+          "pdf_id": "9",
+          "title": "9 Traditional General Knowledge"
+        },
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/lriabnr20yyngcgl0kc8h/1-Physics.pdf?rlkey=hnpn9yjck5x0mgd49ijk9lp3b&st=7zm7ri6q&dl=1",
+          "pdf_id": "10",
+          "title": "10 Physics"
+        },
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/o12jn444eoqyg84virn5q/2-Chemistry.pdf?rlkey=wyd1jbn0yt44ovl3nopjt1pv7&st=g29fsgg6&dl=1",
+          "pdf_id": "11",
+          "title": "11 Chemistry"
+        },
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/5oumxbemzzc1qooc4xcsz/3-Biology.pdf?rlkey=7a3n6syccmolhe5ktvaxub55n&st=086xdaxz&dl=1",
+          "pdf_id": "12",
+          "title": "12 Biology"
+        },
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/p8sr1c0u5qm7rxnmn36p6/4-Computer.pdf?rlkey=jtv4yfder2rz1gbxox15dc5t7&st=bkllenjn&dl=1",
+          "pdf_id": "13",
+          "title": "13 Computer"
+        },
+        {
+          "content": "GK And GS",
+          "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+          "link": "https://www.dropbox.com/scl/fi/ac5m3a6p7gcvc9b6e9owx/5-Environment-and-Ecology.pdf?rlkey=6q0da38mixv5eu2jab00s6ien&st=wh9974ek&dl=1",
+          "pdf_id": "14",
+          "title": "14 Environment and Ecology"
+        }
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/thcfdo7n919nd4dbtsshe/1-Number-System.PDF?rlkey=mmtea7l3covbms2ct62zgwpmf&st=3b4t6dli&dl=1",
+      "pdf_id": "1",
+      "title": "1 Number System"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/qwledccb7q58c0vvj3feh/2-Decimal-Fraction.PDF?rlkey=e114bubv6p7a7zkwk7qcou40f&st=dg2vad2e&dl=1",
+      "pdf_id": "2",
+      "title": "2 Decimal Fraction"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/7xxr4iw0ado59aebtq5ro/3-Surds-and-Indices.PDF?rlkey=ugva5hpdej836yqk1k912q4bf&st=u8a1zdhe&dl=1",
+      "pdf_id": "3",
+      "title": "3 Surds and Indices"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/afwd0zqkmqfqmtedtzkwc/4-Simplification.PDF?rlkey=38d1nveindza64wkxl08zbo6t&st=sq5rlgve&dl=1",
+      "pdf_id": "4",
+      "title": "4 Simplification "
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/yz531o0cmg7wo90vpul9e/5-HCM-LCM.PDF?rlkey=f190gjg2rb5y7te5iylmels9p&st=x3ef4jiw&dl=1",
+      "pdf_id": "5",
+      "title": "5 HCM LCM"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/7towxg9vkh4861m5rkhac/6-Percentage.PDF?rlkey=7smyjohi1tvj53dcne405vsqu&st=dcf0u31l&dl=1",
+      "pdf_id": "6",
+      "title": "6 Percentage"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/zj4bm73h9dn2pdnqqtkbg/7-Profit-and-Loss.PDF?rlkey=06zqoz82adnvvfxotadse9f5o&st=es2px7ws&dl=1",
+      "pdf_id": "7",
+      "title": "7 Profit and Loss"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/ugp7b5ouhye3m6h9wyfy8/8-Discount.PDF?rlkey=tg5xg0kowymgo8e0sb4a9ipd1&st=7r7o1b2z&dl=1",
+      "pdf_id": "8",
+      "title": "8 Discount"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/2qxyi6p1rflsxtm2w9ip0/9-Ratio-Proportion.PDF?rlkey=hb8tiv1k0xwy5haxi1y818ybd&st=1kdzjoi4&dl=1",
+      "pdf_id": "9",
+      "title": "9 Ratio & Proportion "
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/44ucs1zqbfhfz4w612n3o/10-Partnership.PDF?rlkey=z55utau0cnvh59qebfxlmqn2j&st=6zlcec05&dl=1",
+      "pdf_id": "10",
+      "title": "10 Partnership"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/4daprwz5b97teou2y8kaz/11-Work-Time.PDF?rlkey=rptuf58v0uvqdfymhvwlp322j&st=pocgpkjf&dl=1",
+      "pdf_id": "11",
+      "title": "11 Work & Time"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/6j50ychnwb334hxj2i4z8/12-Alligation.PDF?rlkey=3uizb8tlm0wd8xftpuxtpawqd&st=sr7pg4tz&dl=1",
+      "pdf_id": "12",
+      "title": "12 Alligation"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/sdujan9c82dnnsxp0wggr/13-Pipe-Cistern.PDF?rlkey=n1rzjxb2nmmcqhr5x6fjxs7qm&st=j24p4mzt&dl=1",
+      "pdf_id": "13",
+      "title": "13 Pipe & Cistern"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/8d9wbwe6d1iwxas6lkb46/14-Simple-Interest.PDF?rlkey=vff73ep8ww19vpgnfrs8sp9ly&st=jm95hw4f&dl=1",
+      "pdf_id": "14",
+      "title": "14 Simple Interest"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/9ph6gpvwq8behujggoy5y/15-Compound-Interest.PDF?rlkey=0lsqbdgfjdxmp9ep2tzpui5gu&st=y5yl31rr&dl=1",
+      "pdf_id": "15",
+      "title": "15 Compound Interest"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/9zo8ngl7k07cdf1edjcji/16-Problems-Based-on-Age.PDF?rlkey=gzgrxu4yhwnskb6qjqu9jx6rc&st=38fy37sv&dl=1",
+      "pdf_id": "16",
+      "title": "16 Problems Based on Age"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/hqxyatwwu1b2ckp49f4bl/17-Average.PDF?rlkey=2ry5eaectk7tys6f6vi3d0mnp&st=b9p5bb8x&dl=1",
+      "pdf_id": "17",
+      "title": "17 Average"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/9z9646atn9gvr9lxjdfnl/18-Speed-Time-Distance.PDF?rlkey=fd6yo186bleb0xoan16wi6tx5&st=u79dxt61&dl=1",
+      "pdf_id": "18",
+      "title": "18 Speed, Time & Distance"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/cd30kxhnmd52q70d04ah5/19-Train.PDF?rlkey=0d4b938qjkhu7nfmkkzbp5jut&st=k8j3it5v&dl=1",
+      "pdf_id": "19",
+      "title": "19 Train"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/0v7p7idgq5esqhamtfe3g/20-Boat-Stream.PDF?rlkey=eiref9aaf0gzpkwms9b02wrw3&st=kifs9xz6&dl=1",
+      "pdf_id": "20",
+      "title": "20 Boat & Stream"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/afovkpfaqsppmm996mij0/21-Mensuration.PDF?rlkey=238xrytr075j4josdjtwrjkur&st=sakcjihb&dl=1",
+      "pdf_id": "21",
+      "title": "21 Mensuration"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/11d5zlfkuu0spjrcie2st/22-Algebra.PDF?rlkey=i1ulgu4537anmr9s8hs4x0u52&st=q870cy7r&dl=1",
+      "pdf_id": "22",
+      "title": "22 Algebra"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/l4w8o234nnfj1e5r8i253/23-Trigonometry.PDF?rlkey=krzzs4i2wjj0mz67s698talxv&st=fgd71dsz&dl=1",
+      "pdf_id": "23",
+      "title": "23 Trigonometry"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/6f5ul9yq6ncauxn1cd1wu/24-Co-ordinate-Geometry.PDF?rlkey=bnwp5uh1zznp1tle78n2qetim&st=k9hr5aen&dl=1",
+      "pdf_id": "24",
+      "title": "24 Co-ordinate Geometry"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/o5jkts4xl0t4ogznivgb6/25-Geometry.PDF?rlkey=xaep7n06msyu6qdoaaxj0ghdo&st=826locgx&dl=1",
+      "pdf_id": "25",
+      "title": "25 Geometry"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/g9xvzpl8tarpwdt0dblv4/26-Elementary-Statistics-and-Probability.PDF?rlkey=fgw4yhj5xbvuuwgmvooxoiepk&st=iprsu1fs&dl=1",
+      "pdf_id": "26",
+      "title": "26 Elementary Statistics and Probability"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/qdbcek2hlj2r3lqx1phj2/27-Data-Interpretation.PDF?rlkey=y6wtie33b1zcoqehyqzwk3rw1&st=wm89tsid&dl=1",
+      "pdf_id": "27",
+      "title": "27 Data Interpretation"
+    },
+    {
+      "content": "Mathematics",
+      "image": "https://drive.google.com/uc?export=download&id=1SMVhC4lC-MWenzMJ4KP8hFkOv7BI81Xk",
+      "link": "https://www.dropbox.com/scl/fi/f2lzus79nfo161a5auc3q/28-Miscellaneous.PDF?rlkey=evhqsqgkw9olsyxpoyip58wxh&st=9jpgn9ji&dl=1",
+      "pdf_id": "28",
+      "title": "28 Miscellaneous"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/m3s70or49j39f06fdbxbm/1-Analogy.PDF?rlkey=k51m8gvnkvkz8r0bpfe2gfqfz&st=g5eib8sv&dl=1",
+      "pdf_id": "1",
+      "title": "1 Analogy"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/3zr45z38bjsxkozfe25bt/2-Coading-Decoding.PDF?rlkey=85k2ufxhb3rql9o3tcl3tjju5&st=c4thbgag&dl=1",
+      "pdf_id": "2",
+      "title": "2 Coading Decoding"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/293pjyczo8trvndxoupky/3-Classification.PDF?rlkey=qc9k3wydy1pd2rytkk82lkdkc&st=0juguh0z&dl=1",
+      "pdf_id": "3",
+      "title": "3 Classification"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/ydzks0hu7co9lulhjv266/4-Series.PDF?rlkey=xubzz6rtd1wptd07diuuixcvt&st=alfh4cre&dl=1",
+      "pdf_id": "4",
+      "title": "4 Series"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/cv2x6ugq13p1zy8jxem3d/5-Missing-No-Letter-Term-Fig.PDF?rlkey=1v1euyuv6lt0dm16zzyzg2uu9&st=nmcykdcv&dl=1",
+      "pdf_id": "5",
+      "title": "5 Missing No-Letter-Term-Fig"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/33iv84phly7e9robcvtnm/6-Direction.PDF?rlkey=kedkzpu6ou92wuhjuec2qa96w&st=40ex13iz&dl=1",
+      "pdf_id": "6",
+      "title": "6 Direction"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/toagbhvr0bjlzj5ifmmuu/7-Blood-Relations.PDF?rlkey=lwdeyl2cqdyu5vhjwbk6xoj25&st=uvzvqy50&dl=1",
+      "pdf_id": "7",
+      "title": "7 Blood Relations"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/evxa8qjvn0k61poc3o76b/8-Arithmetic-Operation.PDF?rlkey=h86zh8omw1ikwk1eqq0z89q0q&st=udgov4hq&dl=1",
+      "pdf_id": "8",
+      "title": "8 Arithmetic Operation"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/w66ti87yagoflq4olbzt9/9-Venn-Diagram.PDF?rlkey=6xf1o4bzs6zrrph3o0fyajt7r&st=2pgfac51&dl=1",
+      "pdf_id": "9",
+      "title": "9 Venn Diagram"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/2h8vawvsrmc4ryyula7m0/10-Problem-Based-on-Diagram.PDF?rlkey=rvby1nu7b0yh8pbayzyfjv9jo&st=o0n906qg&dl=1",
+      "pdf_id": "10",
+      "title": "10 Problem Based on Diagram"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/oonogbs8vbcgob05q3rju/11-Analytical-Reasoning.PDF?rlkey=qh5chgdc8iraxdeemferr4rq7&st=0zhms5wm&dl=1",
+      "pdf_id": "11",
+      "title": "11 Analytical Reasoning"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/wzks0yh11lk5re782h9k7/12-Syllogism.PDF?rlkey=q95iuy2p7gxti5uhjhhawr39o&st=m43cw5h0&dl=1",
+      "pdf_id": "12",
+      "title": "12 Syllogism"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/ijkuqhmbjo8b15xxk32sc/13-Statement-and-Conclusion.PDF?rlkey=k68xmzzppn0syzs2p7i1de68d&st=jqt00k52&dl=1",
+      "pdf_id": "13",
+      "title": "13 Statement and Conclusion"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/mfd41x424sgje44uwwfu3/14-Statement-and-Assumption-Operation.PDF?rlkey=aq81omejdyfwvp7hempiu3tut&st=dvf16zle&dl=1",
+      "pdf_id": "14",
+      "title": "14 Statement and Assumption, Operation"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/cuznw4g6123yo979egj3h/15-Data-Sufficiency.PDF?rlkey=3rjv9cd6uem0bo3v9k29q9dz5&st=tfwocz47&dl=1",
+      "pdf_id": "15",
+      "title": "15 Data Sufficiency"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/zxqytewbkdb9e35g9xx32/16-Sequence-and-sitting-Arrangement.PDF?rlkey=txg5663zyj7ar8jhb1czic23d&st=i0czr7hw&dl=1",
+      "pdf_id": "16",
+      "title": "16 Sequence and sitting Arrangement"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/yvc6yfu5ckzb9xdvaxt1k/17-Calendar-and-Clock.PDF?rlkey=jh4o51ogriytyy015arc5ry88&st=kagiq0qm&dl=1",
+      "pdf_id": "17",
+      "title": "17 Calendar and Clock"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/leuiehtvasg6a728ieyoy/18-Formation-and-Division-Of-Figure.PDF?rlkey=tnl7mal3nw98kf7mlwsp6b5m7&st=jmvup257&dl=1",
+      "pdf_id": "18",
+      "title": "18 Formation and Division Of Figure"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/i38b0cklfa2p6lixt32pv/19-Line-and-Fig-Counting.PDF?rlkey=8zoaguldpxk6rwq8tvkfixp20&st=99y4ielr&dl=1",
+      "pdf_id": "19",
+      "title": "19 Line and Fig Counting"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/fdyka0xbxml2g842stjax/20-Water-and-Mirror-Image.PDF?rlkey=dnzwdrmvgbvt3okca6imoucg2&st=wcbxbrkz&dl=1",
+      "pdf_id": "20",
+      "title": "20 Water and Mirror Image"
+    },
+    {
+      "content": "Reasoning",
+      "image": "https://drive.google.com/uc?export=download&id=1Gtxe7r0UJ_2-J41c0WxHZGxaTkL93GuY",
+      "link": "https://www.dropbox.com/scl/fi/ik4cu75myundx94q17ckl/21-Cube-Cuboid-and-Dia.PDF?rlkey=4oljd4gdmwha3zo0r43ql2dpv&st=8skry1gl&dl=1",
+      "pdf_id": "21",
+      "title": "21 Cube,Cuboid and Dia"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/wixnmbmw7ukwsoe27gxcc/1-Ancient-History.pdf?rlkey=w7nphivzytv9ey6a3eg8ku7b6&st=z6z64ja2&dl=1",
+      "pdf_id": "1",
+      "title": "1 Ancient History"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/iyglw4bkhrmbbk2lh5az7/2-Medieval-History.pdf?rlkey=svp7ahuvy0wyfnysc8azhw4wx&st=nd5ow0d6&dl=1",
+      "pdf_id": "2",
+      "title": "2 Medieval History"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/53lg55h8hmbax1ltddwdy/3-Modern-History.pdf?rlkey=b3ui0tua3fug3o9e0tvwm7l1c&st=sfcf72oj&dl=1",
+      "pdf_id": "3",
+      "title": "3 Modern History"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/en1jn0pibcvryxc1cib8g/4-World-History.pdf?rlkey=lh1wrh1y8pf8l8jn2k3tvztqv&st=nfhnbrrw&dl=1",
+      "pdf_id": "4",
+      "title": "4 World History"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/ufjqzzbc2z6c5zt7w354g/5-Indian-Polity.pdf?rlkey=f8sy6e6ckb3kqnn6oshl5lrlp&st=296l33y9&dl=1",
+      "pdf_id": "5",
+      "title": "5 Indian Polity"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/o1aygu7moae2bbflwajw3/6-World-Geography.pdf?rlkey=xaldtm64s9c6w856dmlbco57r&st=k7ktawal&dl=1",
+      "pdf_id": "6",
+      "title": "6 World Geography"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/6p8kfbwcn9hb33aq9q7vu/7-Indian-Geography.pdf?rlkey=wg4ljasllzxdivsx8xqwy4np7&st=atlgtgn7&dl=1",
+      "pdf_id": "7",
+      "title": "7 Indian Geography"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/ordwk1cwhnpmgc4c7jin7/8-Economics.pdf?rlkey=czaed0j4hwrme38z3dazroxtb&st=msgh468m&dl=1",
+      "pdf_id": "8",
+      "title": "8 Economics"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/2sy6sg7sfp9wqz5dlnjp5/9-Traditional-General-Knowledge.pdf?rlkey=7o0xyyh2k6tcda91qduabsb88&st=088m7kqd&dl=1",
+      "pdf_id": "9",
+      "title": "9 Traditional General Knowledge"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/lriabnr20yyngcgl0kc8h/1-Physics.pdf?rlkey=hnpn9yjck5x0mgd49ijk9lp3b&st=7zm7ri6q&dl=1",
+      "pdf_id": "10",
+      "title": "10 Physics"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/o12jn444eoqyg84virn5q/2-Chemistry.pdf?rlkey=wyd1jbn0yt44ovl3nopjt1pv7&st=g29fsgg6&dl=1",
+      "pdf_id": "11",
+      "title": "11 Chemistry"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/5oumxbemzzc1qooc4xcsz/3-Biology.pdf?rlkey=7a3n6syccmolhe5ktvaxub55n&st=086xdaxz&dl=1",
+      "pdf_id": "12",
+      "title": "12 Biology"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/p8sr1c0u5qm7rxnmn36p6/4-Computer.pdf?rlkey=jtv4yfder2rz1gbxox15dc5t7&st=bkllenjn&dl=1",
+      "pdf_id": "13",
+      "title": "13 Computer"
+    },
+    {
+      "content": "GK And GS",
+      "image": "https://drive.google.com/uc?export=download&id=1J-WekOiXIWF9uy9o7k_iQBWWc0GkWDoX",
+      "link": "https://www.dropbox.com/scl/fi/ac5m3a6p7gcvc9b6e9owx/5-Environment-and-Ecology.pdf?rlkey=6q0da38mixv5eu2jab00s6ien&st=wh9974ek&dl=1",
+      "pdf_id": "14",
+      "title": "14 Environment and Ecology"
+    }
+
+  ]
+}
